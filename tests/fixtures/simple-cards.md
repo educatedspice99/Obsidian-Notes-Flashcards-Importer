@@ -1,0 +1,21 @@
+- Forward ASCII >> answer
+- Forward Unicode → answer
+- Backward ASCII << prompt
+- Backward Unicode ← prompt
+- Both ASCII <> answer
+- Both Unicode ↔ answer
+- Concept :: definition
+- descriptor ;; value
+- Disabled >- answer
+- Multiline >>>
+  - First answer
+  - Second answer
+- Ordered answer >>1.
+  1. First
+  2. Second
+- Choice >>A)
+  - Correct
+  - Distractor
+- Sentence with ==first cloze== and ==second cloze==
+- Cluster parent #cluster
+  - Clustered ==card==

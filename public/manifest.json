@@ -1,0 +1,26 @@
+{
+  "manifestVersion": 1,
+  "id": "obsidian-flashcard-importer",
+  "name": "Obsidian Notes & Flashcards Importer",
+  "author": "educatedspice99",
+  "repoUrl": "https://github.com/educatedspice99/Obsidian-Notes-Flashcards-Importer",
+  "projectUrl": "https://github.com/educatedspice99/Obsidian-Notes-Flashcards-Importer#readme",
+  "supportUrl": "https://github.com/educatedspice99/Obsidian-Notes-Flashcards-Importer/issues",
+  "changelogUrl": "https://github.com/educatedspice99/Obsidian-Notes-Flashcards-Importer#changelog",
+  "version": {
+    "major": 0,
+    "minor": 2,
+    "patch": 6
+  },
+  "theme": [],
+  "enableOnMobile": false,
+  "unlisted": true,
+  "description": "Import Markdown notes, outlines, and text-based flashcards into RemNote. Manually re-import changes to tracked notes. Independent beta; no live vault sync or attachment import.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "ReadCreateModifyDelete"
+    }
+  ]
+}
